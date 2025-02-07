@@ -1,4 +1,4 @@
-# dev-test-deploy-monitor-cicd
+# Dev-Test-Deploy-Monitor-CICD
 
 A cloud project - develop, test, delivery and monitoring 
 
